@@ -1,3 +1,4 @@
+
 const remote = require('electron').remote 
 
 window.addEventListener('load', function load(event) {
